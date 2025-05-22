@@ -1,0 +1,9 @@
+C:\Programming\19 DVLD Project\TestDVLDProject\DVLD_BusinessLayer\bin\Debug\DVLD_BusinessLayer.dll
+C:\Programming\19 DVLD Project\TestDVLDProject\DVLD_BusinessLayer\bin\Debug\DVLD_BusinessLayer.pdb
+C:\Programming\19 DVLD Project\TestDVLDProject\DVLD_BusinessLayer\bin\Debug\DVLD_DataAccessLayer.dll
+C:\Programming\19 DVLD Project\TestDVLDProject\DVLD_BusinessLayer\bin\Debug\DVLD_DataAccessLayer.pdb
+C:\Programming\19 DVLD Project\TestDVLDProject\DVLD_BusinessLayer\obj\Debug\DVLD_BusinessL.csproj.AssemblyReference.cache
+C:\Programming\19 DVLD Project\TestDVLDProject\DVLD_BusinessLayer\obj\Debug\DVLD_BusinessL.csproj.CoreCompileInputs.cache
+C:\Programming\19 DVLD Project\TestDVLDProject\DVLD_BusinessLayer\obj\Debug\DVLD_Bus.986F282F.Up2Date
+C:\Programming\19 DVLD Project\TestDVLDProject\DVLD_BusinessLayer\obj\Debug\DVLD_BusinessLayer.dll
+C:\Programming\19 DVLD Project\TestDVLDProject\DVLD_BusinessLayer\obj\Debug\DVLD_BusinessLayer.pdb

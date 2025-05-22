@@ -1,0 +1,6 @@
+C:\Programming\19 DVLD Project\TestDVLDProject\DVLD_DataAccessLayer\bin\Debug\DVLD_DataAccessLayer.dll
+C:\Programming\19 DVLD Project\TestDVLDProject\DVLD_DataAccessLayer\bin\Debug\DVLD_DataAccessLayer.pdb
+C:\Programming\19 DVLD Project\TestDVLDProject\DVLD_DataAccessLayer\obj\Debug\DVLD_DataAccessLayer.csproj.AssemblyReference.cache
+C:\Programming\19 DVLD Project\TestDVLDProject\DVLD_DataAccessLayer\obj\Debug\DVLD_DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Programming\19 DVLD Project\TestDVLDProject\DVLD_DataAccessLayer\obj\Debug\DVLD_DataAccessLayer.dll
+C:\Programming\19 DVLD Project\TestDVLDProject\DVLD_DataAccessLayer\obj\Debug\DVLD_DataAccessLayer.pdb

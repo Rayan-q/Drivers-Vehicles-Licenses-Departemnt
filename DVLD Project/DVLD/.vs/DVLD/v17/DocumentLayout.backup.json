@@ -1,0 +1,541 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programming\\19 DVLD Project\\DVLD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9780F94-3361-45CE-900B-6594D929EA07}|DVLD_DataAccessLayer\\DVLD_DataAccessLayer.csproj|C:\\Programming\\19 DVLD Project\\DVLD\\dvld_dataaccesslayer\\clslocallicenseapplicationdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9780F94-3361-45CE-900B-6594D929EA07}|DVLD_DataAccessLayer\\DVLD_DataAccessLayer.csproj|solutionrelative:dvld_dataaccesslayer\\clslocallicenseapplicationdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0AC57B-5212-4CDE-81A3-AF888708F1C5}|DVLD_BusinessLayer\\DVLD_BusinessL.csproj|C:\\Programming\\19 DVLD Project\\DVLD\\dvld_businesslayer\\clsdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E0AC57B-5212-4CDE-81A3-AF888708F1C5}|DVLD_BusinessLayer\\DVLD_BusinessL.csproj|solutionrelative:dvld_businesslayer\\clsdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9780F94-3361-45CE-900B-6594D929EA07}|DVLD_DataAccessLayer\\DVLD_DataAccessLayer.csproj|C:\\Programming\\19 DVLD Project\\DVLD\\dvld_dataaccesslayer\\clsusersdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9780F94-3361-45CE-900B-6594D929EA07}|DVLD_DataAccessLayer\\DVLD_DataAccessLayer.csproj|solutionrelative:dvld_dataaccesslayer\\clsusersdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0AC57B-5212-4CDE-81A3-AF888708F1C5}|DVLD_BusinessLayer\\DVLD_BusinessL.csproj|C:\\Programming\\19 DVLD Project\\DVLD\\dvld_businesslayer\\clslocallicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E0AC57B-5212-4CDE-81A3-AF888708F1C5}|DVLD_BusinessLayer\\DVLD_BusinessL.csproj|solutionrelative:dvld_businesslayer\\clslocallicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9780F94-3361-45CE-900B-6594D929EA07}|DVLD_DataAccessLayer\\DVLD_DataAccessLayer.csproj|C:\\Programming\\19 DVLD Project\\DVLD\\dvld_dataaccesslayer\\clsdriverdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9780F94-3361-45CE-900B-6594D929EA07}|DVLD_DataAccessLayer\\DVLD_DataAccessLayer.csproj|solutionrelative:dvld_dataaccesslayer\\clsdriverdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Programming\\19 DVLD Project\\LDLApplicationsDataAccessLayer\\clsLDLApplicationDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9780F94-3361-45CE-900B-6594D929EA07}|DVLD_DataAccessLayer\\DVLD_DataAccessLayer.csproj|C:\\Programming\\19 DVLD Project\\DVLD\\dvld_dataaccesslayer\\clsapplicationdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9780F94-3361-45CE-900B-6594D929EA07}|DVLD_DataAccessLayer\\DVLD_DataAccessLayer.csproj|solutionrelative:dvld_dataaccesslayer\\clsapplicationdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9780F94-3361-45CE-900B-6594D929EA07}|DVLD_DataAccessLayer\\DVLD_DataAccessLayer.csproj|C:\\Programming\\19 DVLD Project\\DVLD\\dvld_dataaccesslayer\\clsappointmentdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9780F94-3361-45CE-900B-6594D929EA07}|DVLD_DataAccessLayer\\DVLD_DataAccessLayer.csproj|solutionrelative:dvld_dataaccesslayer\\clsappointmentdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9780F94-3361-45CE-900B-6594D929EA07}|DVLD_DataAccessLayer\\DVLD_DataAccessLayer.csproj|C:\\Programming\\19 DVLD Project\\DVLD\\dvld_dataaccesslayer\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9780F94-3361-45CE-900B-6594D929EA07}|DVLD_DataAccessLayer\\DVLD_DataAccessLayer.csproj|solutionrelative:dvld_dataaccesslayer\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\programming\\19 dvld project\\dvldmanagement\\manage local licenses applications\\crtlicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\programming\\19 dvld project\\dvldmanagement\\manage international licenses\\crtintlicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\programming\\19 dvld project\\dvldmanagement\\manage people\\crtshowdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\programming\\19 dvld project\\dvldmanagement\\manage detained licenses\\frmdetainlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\programming\\19 dvld project\\dvldmanagement\\manage drivers\\frmdrivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\programming\\19 dvld project\\dvldmanagement\\manage local licenses applications\\frmlicensehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\programming\\19 dvld project\\dvldmanagement\\manage local licenses applications\\frmlicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\programming\\19 dvld project\\dvldmanagement\\manage detained licenses\\frmmanagedetainedlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\programming\\19 dvld project\\dvldmanagement\\manage international licenses\\frmshowinternationallicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\programming\\19 dvld project\\dvldmanagement\\manage application types\\frmupdateapplicationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\programming\\19 dvld project\\dvldmanagement\\manage test types\\frmupdatetesttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\programming\\19 dvld project\\dvldmanagement\\manage local licenses applications\\crtapplicationinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\programming\\19 dvld project\\dvldmanagement\\manage local licenses applications\\tests\\frmaddappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\programming\\19 dvld project\\dvldmanagement\\manage local licenses applications\\frmaddnewldlapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\programming\\19 dvld project\\dvldmanagement\\manage local licenses applications\\frmissuedlfirsttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\programming\\19 dvld project\\dvldmanagement\\manage international licenses\\frmmanageinternationallicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\programming\\19 dvld project\\dvldmanagement\\manage local licenses applications\\frmmanageldlapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\programming\\19 dvld project\\dvldmanagement\\manage international licenses\\frmaddinternationallicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\programming\\19 dvld project\\dvldmanagement\\manage detained licenses\\frmreleaselicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\programming\\19 dvld project\\dvldmanagement\\manage licenses applications\\frmrenewlocallicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\programming\\19 dvld project\\dvldmanagement\\manage licenses applications\\frmreplacmentforlostordamagedlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\programming\\19 dvld project\\dvldmanagement\\manage local licenses applications\\tests\\frmtaketest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\programming\\19 dvld project\\dvldmanagement\\manage local licenses applications\\tests\\frmtestappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 165,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsLocalLicenseApplicationDataAccess.cs",
+              "DocumentMoniker": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLD_DataAccessLayer\\clsLocalLicenseApplicationDataAccess.cs",
+              "RelativeDocumentMoniker": "DVLD_DataAccessLayer\\clsLocalLicenseApplicationDataAccess.cs",
+              "ToolTip": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLD_DataAccessLayer\\clsLocalLicenseApplicationDataAccess.cs",
+              "RelativeToolTip": "DVLD_DataAccessLayer\\clsLocalLicenseApplicationDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:40:51.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsLocalLicenseApplication.cs",
+              "DocumentMoniker": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLD_BusinessLayer\\clsLocalLicenseApplication.cs",
+              "RelativeDocumentMoniker": "DVLD_BusinessLayer\\clsLocalLicenseApplication.cs",
+              "ToolTip": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLD_BusinessLayer\\clsLocalLicenseApplication.cs",
+              "RelativeToolTip": "DVLD_BusinessLayer\\clsLocalLicenseApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:40:00.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsDriver.cs",
+              "DocumentMoniker": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLD_BusinessLayer\\clsDriver.cs",
+              "RelativeDocumentMoniker": "DVLD_BusinessLayer\\clsDriver.cs",
+              "ToolTip": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLD_BusinessLayer\\clsDriver.cs",
+              "RelativeToolTip": "DVLD_BusinessLayer\\clsDriver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:36:57.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsDriverDataAccess.cs",
+              "DocumentMoniker": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLD_DataAccessLayer\\clsDriverDataAccess.cs",
+              "RelativeDocumentMoniker": "DVLD_DataAccessLayer\\clsDriverDataAccess.cs",
+              "ToolTip": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLD_DataAccessLayer\\clsDriverDataAccess.cs",
+              "RelativeToolTip": "DVLD_DataAccessLayer\\clsDriverDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:36:56.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "crtLicenseInfo.cs",
+              "DocumentMoniker": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLDManagement\\Manage Local Licenses Applications\\crtLicenseInfo.cs",
+              "RelativeDocumentMoniker": "DVLDManagement\\Manage Local Licenses Applications\\crtLicenseInfo.cs",
+              "ToolTip": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLDManagement\\Manage Local Licenses Applications\\crtLicenseInfo.cs",
+              "RelativeToolTip": "DVLDManagement\\Manage Local Licenses Applications\\crtLicenseInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:36:51.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsUsersDataAccess.cs",
+              "DocumentMoniker": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLD_DataAccessLayer\\clsUsersDataAccess.cs",
+              "RelativeDocumentMoniker": "DVLD_DataAccessLayer\\clsUsersDataAccess.cs",
+              "ToolTip": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLD_DataAccessLayer\\clsUsersDataAccess.cs",
+              "RelativeToolTip": "DVLD_DataAccessLayer\\clsUsersDataAccess.cs",
+              "ViewState": "AgIAAH4BAAAAAAAAAAAuwJgBAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:23:39.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "crtIntLicenseInfo.cs",
+              "DocumentMoniker": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLDManagement\\Manage International Licenses\\crtIntLicenseInfo.cs",
+              "RelativeDocumentMoniker": "DVLDManagement\\Manage International Licenses\\crtIntLicenseInfo.cs",
+              "ToolTip": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLDManagement\\Manage International Licenses\\crtIntLicenseInfo.cs",
+              "RelativeToolTip": "DVLDManagement\\Manage International Licenses\\crtIntLicenseInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:36:54.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "crtShowDetails.cs",
+              "DocumentMoniker": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLDManagement\\Manage People\\crtShowDetails.cs",
+              "RelativeDocumentMoniker": "DVLDManagement\\Manage People\\crtShowDetails.cs",
+              "ToolTip": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLDManagement\\Manage People\\crtShowDetails.cs",
+              "RelativeToolTip": "DVLDManagement\\Manage People\\crtShowDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:36:50.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmDetainLicense.cs",
+              "DocumentMoniker": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLDManagement\\Manage Detained Licenses\\frmDetainLicense.cs",
+              "RelativeDocumentMoniker": "DVLDManagement\\Manage Detained Licenses\\frmDetainLicense.cs",
+              "ToolTip": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLDManagement\\Manage Detained Licenses\\frmDetainLicense.cs",
+              "RelativeToolTip": "DVLDManagement\\Manage Detained Licenses\\frmDetainLicense.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:36:49.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmDrivers.cs",
+              "DocumentMoniker": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLDManagement\\Manage Drivers\\frmDrivers.cs",
+              "RelativeDocumentMoniker": "DVLDManagement\\Manage Drivers\\frmDrivers.cs",
+              "ToolTip": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLDManagement\\Manage Drivers\\frmDrivers.cs",
+              "RelativeToolTip": "DVLDManagement\\Manage Drivers\\frmDrivers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:36:47.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmLicenseHistory.cs",
+              "DocumentMoniker": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLDManagement\\Manage Local Licenses Applications\\frmLicenseHistory.cs",
+              "RelativeDocumentMoniker": "DVLDManagement\\Manage Local Licenses Applications\\frmLicenseHistory.cs",
+              "ToolTip": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLDManagement\\Manage Local Licenses Applications\\frmLicenseHistory.cs",
+              "RelativeToolTip": "DVLDManagement\\Manage Local Licenses Applications\\frmLicenseHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:36:46.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmLicenseInfo.cs",
+              "DocumentMoniker": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLDManagement\\Manage Local Licenses Applications\\frmLicenseInfo.cs",
+              "RelativeDocumentMoniker": "DVLDManagement\\Manage Local Licenses Applications\\frmLicenseInfo.cs",
+              "ToolTip": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLDManagement\\Manage Local Licenses Applications\\frmLicenseInfo.cs",
+              "RelativeToolTip": "DVLDManagement\\Manage Local Licenses Applications\\frmLicenseInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:36:44.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmManageDetainedLicenses.cs",
+              "DocumentMoniker": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLDManagement\\Manage Detained Licenses\\frmManageDetainedLicenses.cs",
+              "RelativeDocumentMoniker": "DVLDManagement\\Manage Detained Licenses\\frmManageDetainedLicenses.cs",
+              "ToolTip": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLDManagement\\Manage Detained Licenses\\frmManageDetainedLicenses.cs",
+              "RelativeToolTip": "DVLDManagement\\Manage Detained Licenses\\frmManageDetainedLicenses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:36:42.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmShowInternationalLicenseInfo.cs",
+              "DocumentMoniker": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLDManagement\\Manage International Licenses\\frmShowInternationalLicenseInfo.cs",
+              "RelativeDocumentMoniker": "DVLDManagement\\Manage International Licenses\\frmShowInternationalLicenseInfo.cs",
+              "ToolTip": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLDManagement\\Manage International Licenses\\frmShowInternationalLicenseInfo.cs",
+              "RelativeToolTip": "DVLDManagement\\Manage International Licenses\\frmShowInternationalLicenseInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:36:40.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmUpdateApplicationType.cs",
+              "DocumentMoniker": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLDManagement\\Manage Application Types\\frmUpdateApplicationType.cs",
+              "RelativeDocumentMoniker": "DVLDManagement\\Manage Application Types\\frmUpdateApplicationType.cs",
+              "ToolTip": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLDManagement\\Manage Application Types\\frmUpdateApplicationType.cs",
+              "RelativeToolTip": "DVLDManagement\\Manage Application Types\\frmUpdateApplicationType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:33:51.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmUpdateTestType.cs",
+              "DocumentMoniker": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLDManagement\\Manage Test Types\\frmUpdateTestType.cs",
+              "RelativeDocumentMoniker": "DVLDManagement\\Manage Test Types\\frmUpdateTestType.cs",
+              "ToolTip": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLDManagement\\Manage Test Types\\frmUpdateTestType.cs",
+              "RelativeToolTip": "DVLDManagement\\Manage Test Types\\frmUpdateTestType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:32:52.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsLDLApplicationDataAccess.cs",
+              "DocumentMoniker": "C:\\Programming\\19 DVLD Project\\LDLApplicationsDataAccessLayer\\clsLDLApplicationDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\LDLApplicationsDataAccessLayer\\clsLDLApplicationDataAccess.cs",
+              "ToolTip": "C:\\Programming\\19 DVLD Project\\LDLApplicationsDataAccessLayer\\clsLDLApplicationDataAccess.cs",
+              "RelativeToolTip": "..\\LDLApplicationsDataAccessLayer\\clsLDLApplicationDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:32:37.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clsApplicationDataAccess.cs",
+              "DocumentMoniker": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLD_DataAccessLayer\\clsApplicationDataAccess.cs",
+              "RelativeDocumentMoniker": "DVLD_DataAccessLayer\\clsApplicationDataAccess.cs",
+              "ToolTip": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLD_DataAccessLayer\\clsApplicationDataAccess.cs",
+              "RelativeToolTip": "DVLD_DataAccessLayer\\clsApplicationDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:29:24.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "crtApplicationInfo.cs",
+              "DocumentMoniker": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLDManagement\\Manage Local Licenses Applications\\crtApplicationInfo.cs",
+              "RelativeDocumentMoniker": "DVLDManagement\\Manage Local Licenses Applications\\crtApplicationInfo.cs",
+              "ToolTip": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLDManagement\\Manage Local Licenses Applications\\crtApplicationInfo.cs",
+              "RelativeToolTip": "DVLDManagement\\Manage Local Licenses Applications\\crtApplicationInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:29:23.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmAddAppointment.cs",
+              "DocumentMoniker": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLDManagement\\Manage Local Licenses Applications\\Tests\\frmAddAppointment.cs",
+              "RelativeDocumentMoniker": "DVLDManagement\\Manage Local Licenses Applications\\Tests\\frmAddAppointment.cs",
+              "ToolTip": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLDManagement\\Manage Local Licenses Applications\\Tests\\frmAddAppointment.cs",
+              "RelativeToolTip": "DVLDManagement\\Manage Local Licenses Applications\\Tests\\frmAddAppointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:29:20.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmAddNewLDLApplication.cs",
+              "DocumentMoniker": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLDManagement\\Manage Local Licenses Applications\\frmAddNewLDLApplication.cs",
+              "RelativeDocumentMoniker": "DVLDManagement\\Manage Local Licenses Applications\\frmAddNewLDLApplication.cs",
+              "ToolTip": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLDManagement\\Manage Local Licenses Applications\\frmAddNewLDLApplication.cs",
+              "RelativeToolTip": "DVLDManagement\\Manage Local Licenses Applications\\frmAddNewLDLApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:29:16.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmIssueDLFirstTime.cs",
+              "DocumentMoniker": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLDManagement\\Manage Local Licenses Applications\\frmIssueDLFirstTime.cs",
+              "RelativeDocumentMoniker": "DVLDManagement\\Manage Local Licenses Applications\\frmIssueDLFirstTime.cs",
+              "ToolTip": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLDManagement\\Manage Local Licenses Applications\\frmIssueDLFirstTime.cs",
+              "RelativeToolTip": "DVLDManagement\\Manage Local Licenses Applications\\frmIssueDLFirstTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:29:14.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frmManageInternationalLicenses.cs",
+              "DocumentMoniker": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLDManagement\\Manage International Licenses\\frmManageInternationalLicenses.cs",
+              "RelativeDocumentMoniker": "DVLDManagement\\Manage International Licenses\\frmManageInternationalLicenses.cs",
+              "ToolTip": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLDManagement\\Manage International Licenses\\frmManageInternationalLicenses.cs",
+              "RelativeToolTip": "DVLDManagement\\Manage International Licenses\\frmManageInternationalLicenses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:29:12.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frmManageLDLApplications.cs",
+              "DocumentMoniker": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLDManagement\\Manage Local Licenses Applications\\frmManageLDLApplications.cs",
+              "RelativeDocumentMoniker": "DVLDManagement\\Manage Local Licenses Applications\\frmManageLDLApplications.cs",
+              "ToolTip": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLDManagement\\Manage Local Licenses Applications\\frmManageLDLApplications.cs",
+              "RelativeToolTip": "DVLDManagement\\Manage Local Licenses Applications\\frmManageLDLApplications.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:29:06.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmAddInternationalLicense.cs",
+              "DocumentMoniker": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLDManagement\\Manage International Licenses\\frmAddInternationalLicense.cs",
+              "RelativeDocumentMoniker": "DVLDManagement\\Manage International Licenses\\frmAddInternationalLicense.cs",
+              "ToolTip": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLDManagement\\Manage International Licenses\\frmAddInternationalLicense.cs",
+              "RelativeToolTip": "DVLDManagement\\Manage International Licenses\\frmAddInternationalLicense.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:12:36.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "frmReleaseLicense.cs",
+              "DocumentMoniker": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLDManagement\\Manage Detained Licenses\\frmReleaseLicense.cs",
+              "RelativeDocumentMoniker": "DVLDManagement\\Manage Detained Licenses\\frmReleaseLicense.cs",
+              "ToolTip": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLDManagement\\Manage Detained Licenses\\frmReleaseLicense.cs",
+              "RelativeToolTip": "DVLDManagement\\Manage Detained Licenses\\frmReleaseLicense.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:29:03.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "frmRenewLocalLicense.cs",
+              "DocumentMoniker": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLDManagement\\Manage Licenses Applications\\frmRenewLocalLicense.cs",
+              "RelativeDocumentMoniker": "DVLDManagement\\Manage Licenses Applications\\frmRenewLocalLicense.cs",
+              "ToolTip": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLDManagement\\Manage Licenses Applications\\frmRenewLocalLicense.cs",
+              "RelativeToolTip": "DVLDManagement\\Manage Licenses Applications\\frmRenewLocalLicense.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:29:01.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "frmReplacmentForLostOrDamagedLicenses.cs",
+              "DocumentMoniker": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLDManagement\\Manage Licenses Applications\\frmReplacmentForLostOrDamagedLicenses.cs",
+              "RelativeDocumentMoniker": "DVLDManagement\\Manage Licenses Applications\\frmReplacmentForLostOrDamagedLicenses.cs",
+              "ToolTip": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLDManagement\\Manage Licenses Applications\\frmReplacmentForLostOrDamagedLicenses.cs",
+              "RelativeToolTip": "DVLDManagement\\Manage Licenses Applications\\frmReplacmentForLostOrDamagedLicenses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:28:59.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "frmTakeTest.cs",
+              "DocumentMoniker": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLDManagement\\Manage Local Licenses Applications\\Tests\\frmTakeTest.cs",
+              "RelativeDocumentMoniker": "DVLDManagement\\Manage Local Licenses Applications\\Tests\\frmTakeTest.cs",
+              "ToolTip": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLDManagement\\Manage Local Licenses Applications\\Tests\\frmTakeTest.cs",
+              "RelativeToolTip": "DVLDManagement\\Manage Local Licenses Applications\\Tests\\frmTakeTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:28:57.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "frmTestAppointments.cs",
+              "DocumentMoniker": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLDManagement\\Manage Local Licenses Applications\\Tests\\frmTestAppointments.cs",
+              "RelativeDocumentMoniker": "DVLDManagement\\Manage Local Licenses Applications\\Tests\\frmTestAppointments.cs",
+              "ToolTip": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLDManagement\\Manage Local Licenses Applications\\Tests\\frmTestAppointments.cs",
+              "RelativeToolTip": "DVLDManagement\\Manage Local Licenses Applications\\Tests\\frmTestAppointments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:28:53.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clsAppointmentDataAccess.cs",
+              "DocumentMoniker": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLD_DataAccessLayer\\clsAppointmentDataAccess.cs",
+              "RelativeDocumentMoniker": "DVLD_DataAccessLayer\\clsAppointmentDataAccess.cs",
+              "ToolTip": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLD_DataAccessLayer\\clsAppointmentDataAccess.cs",
+              "RelativeToolTip": "DVLD_DataAccessLayer\\clsAppointmentDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:26:20.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLD_DataAccessLayer\\Settings.cs",
+              "RelativeDocumentMoniker": "DVLD_DataAccessLayer\\Settings.cs",
+              "ToolTip": "C:\\Programming\\19 DVLD Project\\DVLD\\DVLD_DataAccessLayer\\Settings.cs",
+              "RelativeToolTip": "DVLD_DataAccessLayer\\Settings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:23:20.788Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 59,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 17,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Programming\19 DVLD Project\TestDVLDProject\obj\Debug\TestDVLDProject.csproj.AssemblyReference.cache
+C:\Programming\19 DVLD Project\TestDVLDProject\obj\Debug\TestDVLDProject.csproj.CoreCompileInputs.cache
+C:\Programming\19 DVLD Project\TestDVLDProject\bin\Debug\TestDVLDProject.exe.config
+C:\Programming\19 DVLD Project\TestDVLDProject\bin\Debug\TestDVLDProject.exe
+C:\Programming\19 DVLD Project\TestDVLDProject\bin\Debug\TestDVLDProject.pdb
+C:\Programming\19 DVLD Project\TestDVLDProject\bin\Debug\PersonBusinessLayer.dll
+C:\Programming\19 DVLD Project\TestDVLDProject\bin\Debug\PersonDataAccessLayer.dll
+C:\Programming\19 DVLD Project\TestDVLDProject\bin\Debug\PersonBusinessLayer.pdb
+C:\Programming\19 DVLD Project\TestDVLDProject\bin\Debug\PersonDataAccessLayer.pdb
+C:\Programming\19 DVLD Project\TestDVLDProject\obj\Debug\TestDVLDProject.exe
+C:\Programming\19 DVLD Project\TestDVLDProject\obj\Debug\TestDVLDProject.pdb
+C:\Programming\19 DVLD Project\TestDVLDProject\obj\Debug\TestDVLD.E31F9E2A.Up2Date
